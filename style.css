@@ -3,7 +3,8 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto Mono', monospace;
     padding: 0px;
-    margin: 0pxsss;
+    margin: 0px;
+    margin-top: 0px;
 }
 
 #top-bar {
@@ -18,13 +19,19 @@ body {
     text-align: center;
 }
 
+span {
+    color: #ffbe6a;
+}
+
 h1 {
     padding-top: 53px;
 }
 
 h6 {
     font-size: 20px;
+    color: rgb(181, 250, 255);
 }
+
 
 .button {
     background-color: rgb(235, 138, 12);
@@ -32,4 +39,51 @@ h6 {
     padding: 8px 30px;
     border-radius: 5px;
     color: white;
+}
+
+.container-middle {
+    text-align: center;
+}
+
+.big-font {
+    font-size: 55px;
+}
+
+.little-font {
+    color: rgb(235, 138, 12);
+}
+
+
+
+.ammounts {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(235, 138, 12);
+    border-left: 10px solid rgb(38, 92, 22);
+    border-right: 10px solid rgb(38, 92, 22);
+    text-align: center;
+    display: inline;
+    padding: 30px 60px;
+    color: rgb(235, 233, 230);
+    border-radius: 10px;
+}
+
+.another-ammount {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.button-2 {
+    background-color: rgb(235, 138, 12);
+    text-decoration: none;
+    padding: 8px 30px;
+    border-radius: 5px;
+    color: white;
+    border-left: 8px solid rgb(38, 92, 22);
+    border-right: 8px solid rgb(38, 92, 22);
+    margin-left: 50%;
+}
+
+.middle-bar-2 {
+    text-align: center;
 }
