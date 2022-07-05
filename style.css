@@ -1,0 +1,35 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    padding: 0px;
+    margin: 0pxsss;
+}
+
+#top-bar {
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    height: 550px;
+}
+
+.container-top {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 53px;
+}
+
+h6 {
+    font-size: 20px;
+}
+
+.button {
+    background-color: rgb(235, 138, 12);
+    text-decoration: none;
+    padding: 8px 30px;
+    border-radius: 5px;
+    color: white;
+}
