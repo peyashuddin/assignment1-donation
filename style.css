@@ -84,6 +84,18 @@ h6 {
     margin-left: 50%;
 }
 
-.middle-bar-2 {
+.container-middle-2 {
     text-align: center;
+}
+
+.donates {
+    height: 70px;
+    width: 50px;
+    display: ;
+}
+
+.donates h6 {
+    font-size: 15px;
+    color: rgb(78, 78, 78);
+    text-align: justify;
 }
