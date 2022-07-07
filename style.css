@@ -128,3 +128,68 @@ h6 {
     padding: 5px;
     text-align: center;
 }
+
+.logo {
+    height: 6px;
+}
+
+.logo img {
+    height: 60px;
+    display: flex;
+}
+
+.new-h6 {
+    color: black;
+}
+
+#midle-bar-3 {
+    display: flex;
+}
+
+.contribute {
+    width: 50%;
+    padding-left: 50px;
+    padding-top: 30px;
+    border: 10pxpx solid white;
+}
+
+.suffering {
+    display: flex;
+    border: 10pxpx solid white;
+}
+
+.contribute-2 {
+    border: 10px solid rgb(255, 251, 251);
+    padding-left: 10px;
+    text-align: right;
+
+}
+
+.suffering-2 img {
+    width: 50%;
+    float: left;
+
+}
+
+.last-bar {
+    border: 5px solid white;
+    text-align: center;
+    padding: 5px;
+}
+
+.email {
+    background-color: burlywood;
+    border: 25px 30px solid rgb(255, 218, 218);
+    padding: 5px;
+}
+
+
+
+footer p {
+
+    background-color: #3f2605;
+    height: 100px;
+    color: tomato;
+    text-align: center;
+    padding-top: 5px;
+}
